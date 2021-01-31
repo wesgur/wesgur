@@ -4,7 +4,7 @@
 
 **Social**
 
-<a href="https://stackoverflow.com/users/3639630" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3639630" height="30" width="40" /></a>
+<a href="https://github.com/wesgur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="3639630" height="30" width="40" /> <a href="https://www.linkedin.com/in/johnny-jin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="3639630" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/3639630" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3639630" height="30" width="40" /></a> 
 
 &nbsp;
 
